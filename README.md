@@ -25,6 +25,7 @@ In this project, we propose an **ensemble learning strategy built on AGResU-Net 
 
 ## Results
 * Paper Results
+
 | Model       | DSC-Whole | DSC-Core | DSC-Enh | HD95-W | HD95-C | HD95-E |
 | ----------- | --------: | -------: | ------: | -----: | -----: | -----: |
 | U-Net†      |     0.864 |    0.746 |   0.696 |      - |      - |      - |
@@ -33,6 +34,7 @@ In this project, we propose an **ensemble learning strategy built on AGResU-Net 
 | AGResU-Net† |     0.870 |    0.777 |   0.709 |      - |      - |      - |
 
 * Our Results
+
 | Model            | DSC-Whole | DSC-Core | DSC-Enh | HD95-W | HD95-C | HD95-E |
 | ---------------- | --------: | -------: | ------: | -----: | -----: | -----: |
 | U-Net            |     0.701 |    0.712 |   0.768 |   9.23 |   5.42 |   3.14 |
