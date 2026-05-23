@@ -1,2 +1,30 @@
-# Brain-tumor-segmentation-ensemble-AGResU-Net
-Reproduction and enhancement of AGResU-Net for MRI brain tumor segmentation using ensemble learning and test-time augmentation.
+# Brain Tumor Segmentation using AGResU-Net
+
+## Overview
+Short explanation.
+
+## Dataset
+BraTS dataset info.
+
+## Models Used
+- U-Net
+- ResU-Net
+- AGU-Net
+- AGResU-Net
+
+## Enhancements
+- Ensemble Learning
+- Test-Time Augmentation
+
+## Results
+Include metrics table + images.
+
+## Repository Structure
+
+## Installation
+
+## Usage
+
+## Key Findings
+
+## Future Improvements
